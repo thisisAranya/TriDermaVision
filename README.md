@@ -1,11 +1,4 @@
 # TriDermaVision
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x200?text=TriDermaVision" alt="TriDermaVision Logo" width="800"/>
-</p>
-
-## Advanced Multimodal AI for Dermatological Analysis
-
 TriDermaVision is a comprehensive multimodal system that combines three powerful AI technologies for accurate dermatological image analysis and medical recommendations:
 
 - **Retrieval-Augmented Generation (RAG)**: Enhanced responses using structured dermatological knowledge
